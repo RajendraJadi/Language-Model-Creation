@@ -1,6 +1,6 @@
 # Language-Model-Creation
 
-Title: Language Model Creation
+Title: Language Model Creation (N-Grams for two Corpora)
 This Assigment aims to build language model and determine the language of the word. The classification is at character level. So for each character unigrams, bigrams,trigrams
 probability is calculate to determine the language of the word.
 
